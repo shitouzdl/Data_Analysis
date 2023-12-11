@@ -1,5 +1,5 @@
 数据分析案例  
-这里是个人的python数据分析的案例
+典型的python数据分析的案例
 # 母婴产品的数据  
 来源于阿里天池，链接 https://tianchi.aliyun.com/dataset/dataDetail?dataId=45
 ## 背景描述
